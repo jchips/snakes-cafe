@@ -6,4 +6,4 @@
 
 ### Setup
 
-Initialization: `python snakes-cafe.py`
+Initialization: `python snakes_cafe.py`
